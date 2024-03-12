@@ -78,6 +78,7 @@ httpd = HTTPServer(server_address,myhandler)
 print("my webserver is running...")
 httpd.serve_forever()
 ```
+
 ## OUTPUT:
 ![EX-01 WEB OUTPUT](https://github.com/Oviya24032K6/simplewebserver/assets/147139999/ee864305-e718-45fb-9e89-9c5c3fdef758)
 ![EX-01 WEB terminal](https://github.com/Oviya24032K6/simplewebserver/assets/147139999/ffaa3d5f-f7e8-42f5-9278-286fb4c512be)
