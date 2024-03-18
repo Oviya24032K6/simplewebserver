@@ -1,7 +1,7 @@
 # EX01 Developing a Simple Webserver
 ## Date: 14.02.2024
 
-## AIM:
+## AIM: 
 To develop a simple webserver to serve html pages.
 
 ## DESIGN STEPS:
